@@ -1,6 +1,7 @@
 # PHP info display page
 ### About
-Made to be installed by a single file. (the developer must edit the file array according to the readme to get it to show what you want XP)
+Made to be installed by a single file. (the developer must edit the file array according to the readme to get it to show what you want XP)<br><br>
+The design was heavily based off of the apple webkit warning screen.
 ### How to use
 Find the <code>$types = [</code>.<br>
 The array inside is an example of a working data set.<br><br>
