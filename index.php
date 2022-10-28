@@ -206,7 +206,7 @@
           "Option data description"
         ]
       ]
-    ],
+    ]
   ];//name, 
   
   if (!empty($types[$_GET['type']])) {
